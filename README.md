@@ -1,5 +1,6 @@
 # Pygame_Test
-Testing platform for pygame and github
+Testing platform for pygame and github.
+
 Hello my name is Xyfang
 Im:
 - 14 years old
